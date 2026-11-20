@@ -1,11 +1,4 @@
 
-<p align="center">
-  <img
-    src="./banner.jpg"
-    width="100%"
-    height="auto"
-    alt="Rith - Junior Backend Developer"
-  />
 </p>
 <h1 align="center">Hi 👋, I'm Rith</h1>
 

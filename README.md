@@ -1,36 +1,33 @@
+
 <p align="center">
-  <img src="./banner.jpg" width="100%" alt="Rith - Junior Backend Developer">
+  <img
+    src="./banner.jpg"
+    width="100%"
+    height="auto"
+    alt="Rith - Junior Backend Developer"
+  />
 </p>
+<h1 align="center">Hi 👋, I'm Rith</h1>
+
+<h3 align="center">
+  Junior Backend Developer | Java & Spring Boot
+</h3>
+
 <p align="center">
-  <img src="./banner.jpg" width="100%" alt="Rith - Junior Backend Developer">
+  🇰🇭 Cambodia | 💻 Backend Development | 🚀 Always Learning
 </p>
 
 ---
-
-<h1 align="center">Hi 👋, I'm Rith</h1>
-<h3 align="center">Junior Backend Developer</h3>
 
 ### 👨‍💻 About Me
-- Java Developer
-- Spring Boot Enthusiast
-- Learning Backend Development
 
+I'm a Computer Science graduate from Cambodia with hands-on experience in technical support and backend development.
 
-
----
-
-
-
-# Hi, I'm Rith 👋
-
-### Junior Backend Developer | Java & Spring Boot
-
-I'm a Computer Science graduate from Cambodia with hands-on experience in technical support and backend development. I'm passionate about building reliable applications, designing RESTful APIs, and working with databases.
-
-- 💻 Focused on **Java Backend Development**
-- 🌱 Currently improving my skills in **Spring Boot, Spring Data JPA, and Liquibase**
-- 🔭 Developing **Rith Computer Shop Management System**
-- 🛠️ Interested in software engineering, API development, and database management
+- 🔭 Currently developing a Computer Shop Management System.
+- 🌱 Learning Java, Spring Boot, and backend architecture.
+- 💻 Interested in RESTful APIs and database management.
+- 🎯 Goal: Become a professional Backend Developer.
+- ⚡ Passionate about solving problems and learning new technologies.
 - 📍 Cambodia
 
 ---

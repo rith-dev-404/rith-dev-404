@@ -1,3 +1,26 @@
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Rith - Junior Backend Developer">
+</p>
+<p align="center">
+  <img src="./banner.jpg" width="100%" alt="Rith - Junior Backend Developer">
+</p>
+
+---
+
+<h1 align="center">Hi 👋, I'm Rith</h1>
+<h3 align="center">Junior Backend Developer</h3>
+
+### 👨‍💻 About Me
+- Java Developer
+- Spring Boot Enthusiast
+- Learning Backend Development
+
+
+
+---
+
+
+
 # Hi, I'm Rith 👋
 
 ### Junior Backend Developer | Java & Spring Boot
